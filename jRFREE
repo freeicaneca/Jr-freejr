@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="space" tvg-logo="https://1.bp.blogspot.com/-85yToGesSc8/XZVVTRDVJfI/AAAAAAAACDs/8gVh_qQB0T005QjJrsIBF0LTZiQ9iml1ACPcBGAYYCw/s320/Screenshot_2019-10-02-22-55-09.png" group-title="Filmes & Séries", BR: SPACE 
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://1.bp.blogspot.com/-85yToGesSc8/XZVVTRDVJfI/AAAAAAAACDs/8gVh_qQB0T005QjJrsIBF0LTZiQ9iml1ACPcBGAYYCw/s320/Screenshot_2019-10-02-22-55-09.png" group-title="Filmes & Séries", BR: Telecine Action 
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w457815558.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2.bp.blogspot.com/-FyuPxPq-klc/XQ0tqGbS0KI/AAAAAAAABME/q0GLmUzUG18A3R0IRqW-7u1jnOkk_ogpQCPcBGAYYCw/s320/Screenshot_2019-06-21-16-17-17.png%22" group-title="Filmes & Séries", Tv Birigui - Discovery 
@@ -8,8 +8,8 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="Filmes & Séries", Classique Tv
 https://stmv6.srvstm.com/classique/classique/chunklist_w798267346.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Filmes & Séries", Carioca 
-https://5d2c98775bafe.streamlock.net/8180/8180/chunklist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="Filmes & Séries", CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://4.bp.blogspot.com/-xRCBFLNE8Us/XwJqkuq7rgI/AAAAAAAADEo/QeRVwAJlQMgcVo1-9-FoFtodGOcpEHFewCLcBGAsYHQ/s320/Screenshot_2020-07-05-21-01-09.png" group-title="Filmes & Séries", Kronos web TV 
 https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
@@ -38,5 +38,3 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w317653513.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://4.bp.blogspot.com/-YZzjxuSIsAc/XXxQhEfqNuI/AAAAAAAAB0Y/17hPLzf4WfcEHi0S1pslnYD3hjeXYd8hwCLcBGAsYHQ/s320/Screenshot_2019-09-13-23-27-15.png" group-title="Filmes & Séries", TV Destak
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w2067466183.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title="Filmes & Séries", SBT
-https://www.youtube.com/watch?v=ABVQXgr2LW4&feature
